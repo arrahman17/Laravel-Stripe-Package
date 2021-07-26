@@ -1,0 +1,21 @@
+{
+    "name": "netmarket/stripe",
+    "description": "This is the stripe payment api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdur Rahman",
+            "email": "abdur.rahman@netmarket.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "stripe/stripe-php": "^7.87"
+    },
+    "autoload": {
+        "psr-4": {
+            "Netmarket\\Stripe\\": "src/"
+        }
+    }
+}
