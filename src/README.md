@@ -21,7 +21,7 @@ This package is a gateway to the Stripe Payment API, in order to use this packag
  - "repositories": [
         {
             "type": "vcs",
-            "url": " http://git.netmarket.de/Git.Server/Stripe-Payment-API.git"
+            "url": " https://github.com/arrahman17/Laravel-Stripe-Package"
         }
     ],
 
