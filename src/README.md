@@ -16,7 +16,7 @@ This package is a gateway to the Stripe Payment API, in order to use this packag
 
 **add this to composer** 
  
- - in require =>  "Netmarket/Stripe": "^1.0.0" 
+ - in require =>  "Netmarket/Stripe": "^1.0.1" 
  - then add this below require
  - "repositories": [
         {
